@@ -1,0 +1,2 @@
+# 600_ES6
+ECMAScript 6
